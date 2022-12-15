@@ -5,5 +5,5 @@
 - 🤖 I am seeking 2023 summer internships in software development
 - 🔭 Interested in machine learning and software / game development
 - ⚡ Fun fact: I love 📸 🏓 🍜
-- 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu) / [henry.duanzq@gmail.com](mailto:henry.duanzq@gmail.com)
+- 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu) / [duanzqhenry@gmail.com](mailto:duanzqhenry@gmail.com)
 
