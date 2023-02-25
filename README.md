@@ -10,7 +10,7 @@
 - ☘️ I graduated from University of Michigan (BS in CS @umich) and Shanghai Jiao Tong University (BS in ECE @situ)
 - 🤖 I am seeking 2023 summer internships in software development
 - ⚡ Fun fact: I love 📸 🏓 🍜
-- 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu) / [duanzqhenry@gmail.com](mailto:duanzqhenry@gmail.com)
+- 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlzq-duanzq&layout=compact)](https://github.com/zlzq-duanzq/github-readme-stats)
 
