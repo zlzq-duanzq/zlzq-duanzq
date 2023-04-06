@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I love 📸 🏓 🍜
 - 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu)
 
+📊 Weekly coding breakdown
 <!--START_SECTION:waka-->
 
 ```text
