@@ -13,6 +13,13 @@
 - 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu)
 
 <!--START_SECTION:waka-->
+
+```text
+C#                14 hrs 24 mins  ███████████████████████▒░   93.20 %
+Protocol Buffer   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Other             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlzq-duanzq&layout=compact)](https://github.com/zlzq-duanzq/github-readme-stats)
