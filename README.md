@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#                2 hrs 28 mins   █████████████████████████   99.38 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
