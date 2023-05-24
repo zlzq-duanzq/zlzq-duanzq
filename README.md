@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   0 secs          █████████████████████████   100.00 %
+Python            59 mins         ███████████████████████▓░   94.41 %
+Protocol Buffer   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
