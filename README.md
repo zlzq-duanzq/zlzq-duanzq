@@ -10,9 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                5 hrs 58 mins   ████████████████████████░   95.82 %
-Other             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Protocol Buffer   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
