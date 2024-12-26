@@ -10,9 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                        5 mins          █████████████████████████   99.42 %
-Java                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java                       34 mins         █████████████████████▒░░░   85.75 %
+TeX                        5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
