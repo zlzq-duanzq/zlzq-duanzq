@@ -10,9 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       34 mins         █████████████████████▒░░░   85.75 %
-TeX                        5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java                       53 mins         █████████████████████▒░░░   84.88 %
+TeX                        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JSON                       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
