@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       5 hrs 20 mins   ███████████████████████▓░   94.49 %
-IDEA_MODULE                8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-TeX                        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Java                       5 hrs 20 mins   ████████████████████████░   96.08 %
+IDEA_MODULE                8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+GitIgnore file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
