@@ -2,7 +2,6 @@
 
 - 🔭 MS in CS at University of Michigan
 - 📚 Dual degree holder from University of Michigan (BS in CS @umich) and Shanghai Jiao Tong University (BS in ECE @situ)
-- 🤖 Seeking 2023 new grad roles in software development and machine learning
 - 🍁 Fun fact: I love 📸 🏓 🍜 🎮
 - 📫 How to reach me: [duanzq@umich.edu](mailto:duanzq@umich.edu)
 
