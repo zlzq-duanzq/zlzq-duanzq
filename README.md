@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin          3 mins          ██████████████████▓░░░░░░   74.55 %
-Java            0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-brazil-config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-C++             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
