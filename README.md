@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            2 hrs 44 mins   █████████████████████░░░░   84.05 %
+Java              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Gradle            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Groovy            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
