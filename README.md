@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     13 hrs 5 mins   ████████████▓░░░░░░░░░░░░   50.48 %
-Java                       6 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Python                     1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Brazil Dependency Config   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Gradle                     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Kotlin                     12 hrs 24 mins  █████████████▒░░░░░░░░░░░   53.11 %
+Java                       6 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+Python                     1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Markdown                   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+textmate                   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
