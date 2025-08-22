@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     11 hrs 4 mins   █████████████████░░░░░░░░   67.77 %
-Java                       5 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.88 %
-Text                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-IDEA_MODULE                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Kotlin                     11 hrs 29 mins  █████████████████▓░░░░░░░   71.28 %
+Java                       3 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
+Bash                       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+textmate                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Shell Script               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
