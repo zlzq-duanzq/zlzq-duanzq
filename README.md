@@ -18,11 +18,11 @@ brazil-config              5 mins          ▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-***
+<!-- ***
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zlzq-duanzq/count.svg" />
-</p>
+</p> -->
 
 <!-- ![Henry Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlzq-duanzq&show_icons=true)
 
