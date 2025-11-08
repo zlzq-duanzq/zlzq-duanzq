@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     13 hrs 38 mins  ██████████████░░░░░░░░░░░   56.06 %
-Java                       10 hrs 13 mins  ██████████▓░░░░░░░░░░░░░░   42.02 %
-Ruby                       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Brazil Dependency Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin                     12 hrs 18 mins  ████████████████░░░░░░░░░   63.37 %
+Java                       5 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Ruby                       1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+YAML                       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Brazil Dependency Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
