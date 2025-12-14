@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   6 mins          █████████████▒░░░░░░░░░░░   53.58 %
-Java     5 mins          ███████████▓░░░░░░░░░░░░░   46.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
