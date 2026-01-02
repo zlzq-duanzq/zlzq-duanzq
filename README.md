@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       2 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.83 %
-Kotlin                     1 hr 57 mins    ██████████▒░░░░░░░░░░░░░░   40.93 %
-Brazil Dependency Config   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-INI                        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-brazil-config              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Kotlin                     2 hrs 55 mins   ████████████▒░░░░░░░░░░░░   48.69 %
+Java                       2 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.57 %
+Brazil Dependency Config   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+INI                        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+brazil-config              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
