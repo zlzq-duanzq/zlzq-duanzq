@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     7 hrs 39 mins   ████████████▒░░░░░░░░░░░░   49.73 %
-Java                       4 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   31.97 %
-Python                     2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Git Config                 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Brazil Dependency Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Kotlin                     7 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.56 %
+Java                       6 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   40.26 %
+Python                     1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Git Config                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+brazil-config              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
