@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     44 mins               ██████████▒░░░░░░░░░░░░░░   41.94 %
-Java                       41 mins               █████████▓░░░░░░░░░░░░░░░   38.48 %
-Go                         14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Smithy                     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-textmate                   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
