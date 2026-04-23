@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     12 hrs 26 mins        █████████████▓░░░░░░░░░░░   54.02 %
-Java                       4 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-TeX                        2 hrs 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Brazil Dependency Config   1 hr 18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Markdown                   52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Kotlin                     9 hrs 46 mins         ████████████▒░░░░░░░░░░░░   49.02 %
+Java                       5 hrs 20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
+TeX                        2 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Brazil Dependency Config   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown                   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
