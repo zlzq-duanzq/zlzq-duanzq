@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin         40 mins               █████████████████░░░░░░░░   67.88 %
-Other          7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Ruby           5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-ERB            4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Java           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
